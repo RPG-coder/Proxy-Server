@@ -8,7 +8,11 @@
 <p>There is no dependency package for using Proxy-Server. You only require Java with JDK version greater or equal to Java-8</p>
 <ol><em>Steps:</em>
   <li><code>$javac ProxyServer.java</code></li>
-  <li><code>$java ProxyServer {port}</code><br/>where port is integer and 1024 &lt;= port &lt;= 65535</li>
+  <li>
+    <code>$java ProxyServer {port}</code><br/>
+    where <em>port is integer</em> and <em>1024 &lt;= port &lt;= 65535</em><br/>
+    Here,<em>port</em> means the port number on which you would like to receive the request from apache 
+  </li>
 </ol>
 <hr/>
 <h3 align='center'>Happy Using</h3>
