@@ -8,11 +8,11 @@
 <ol><p>Following are the steps in order to setup commonly used browsers:</p>
   <li>
     Mozilla:<br/> 
-    Goto Settings &#x2190; Click Advanced(at bottom-most & center of General page) &#x2190; Click Settings &#x2190; Update you IP address and port to ProxyServer's IPaddress and port
+    Goto Settings &#x2192; Click Advanced(at bottom-most & center of General page) &#x2192; Click Settings &#x2192; Update you IP address and port to ProxyServer's IPaddress and port
   </li>
   <li>
     Chrome / other browsers:<br/> 
-    Goto Settings &#x2190; Network Settings(at bottom-most & center of page) &#x2190; Click Open your computer's proxy settings &#x2190; Update you IP address and port to ProxyServer's IPaddress and port
+    Goto Settings &#x2192; Network Settings(at bottom-most & center of page) &#x2192; Click Open your computer's proxy settings &#x2192; Update you IP address and port to ProxyServer's IPaddress and port
 </li>
 </ol>
 <hr/>
